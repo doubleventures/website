@@ -9,4 +9,4 @@ Double Ventures Ltd is registered in England and Wales as company number 1165640
 
 The registered office is 20-22 Wenlock Road, London N1 7GU.
 
-LEI: [9845006CDCF647798988](https://www.legalentityidentifier.co.uk/leicert/?lei=9845006CDCF647798988)
+LEI: [9845006CDCF647798988](https://search.gleif.org/#/record/9845006CDCF647798988)
