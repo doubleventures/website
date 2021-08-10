@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Double Ventures
 ---
 ### Double Ventures Ltd
 Double Ventures Ltd is registered in England and Wales as company number 11656405.
