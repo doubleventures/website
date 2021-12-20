@@ -19,6 +19,11 @@ The registered office is 20-22 Wenlock Road, London N1 7GU, United Kingdom.
 
 VAT: GB311241073
 
+### Refirm Ltd
+Refirm Ltd is registered in England and Wales as company number 13809554.
+
+The registered office is 20-22 Wenlock Road, London N1 7GU, United Kingdom.
+
 ### Pyh&auml;n Kaarre Oy
 Pyh&auml;n Kaarre Oy is registered in Finland as company number 0774428-0.
 
