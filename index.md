@@ -28,3 +28,8 @@ The registered office is 20-22 Wenlock Road, London N1 7GU, United Kingdom.
 Pyh&auml;n Kaarre Oy is registered in Finland as company number 0774428-0.
 
 The registered office is Vuonnoksenpalontie 2, 98530 Pyh&auml;tunturi, Finland.
+
+### Double Ventures Finland Oy
+Double Ventures Finland Oy is registered in Finland as company number 3296159-4.
+
+The registered office is Vuonnoksenpalontie 2, 98530 Pyh&auml;tunturi, Finland.
